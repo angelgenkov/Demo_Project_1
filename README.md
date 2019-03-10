@@ -6,6 +6,7 @@
 - Директно клониране на репо-то в Eclipse
 - В Eclipse се отива на File -> Import, а там от менюто се избира Git -> Projects From Git -> Clone URI
 - Въвежда се линка на клониране на това репо
+
 Начин 2:
 - Сваля се репото като Zip
 - В Eclipse се отива на File -> Import, а там от менюто се избира Maven -> Existing Maven Project
