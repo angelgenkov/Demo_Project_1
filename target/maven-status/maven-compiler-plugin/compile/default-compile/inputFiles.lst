@@ -1,0 +1,14 @@
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/ui/common/AbstractEditorDialog.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/ui/common/ConfirmationDialog.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/backend/StaticData.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/backend/ReviewService.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/ui/views/reviewslist/ReviewsList.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/ui/views/categorieslist/CategoriesList.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/ui/views/categorieslist/CategoryEditorDialog.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/ui/MainLayout.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/ui/views/reviewslist/ReviewEditorDialog.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/backend/CategoryService.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/backend/Review.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/backend/Category.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/ui/encoders/LocalDateToStringEncoder.java
+/Users/genkov/Desktop/Demo_Project_1/src/main/java/com/example/test/ui/encoders/LongToStringEncoder.java
